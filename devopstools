@@ -13,7 +13,15 @@ Ansible
  - ansible.cfg
  - ad hoc
  - playbook
+   - global play declaration
+   - tasks
+   - modules
+   - conditions
+   - loops
+   - templates
+   - variables
    - etc etc
+   
 AWS Part 2
 Docker
 Kubernetes
