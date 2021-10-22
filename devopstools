@@ -21,7 +21,8 @@ Ansible
    - templates
    - variables
    - etc etc
-   
+ - roles
+ - galaxy roles
 AWS Part 2
 Docker
 Kubernetes
