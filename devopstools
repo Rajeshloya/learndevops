@@ -9,6 +9,11 @@ Bash scipting
 
 Python scripting
 Ansible
+ - inventory
+ - ansible.cfg
+ - ad hoc
+ - playbook
+   - etc etc
 AWS Part 2
 Docker
 Kubernetes
